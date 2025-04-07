@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksander Fuks
 =======================================================================================================================================
 
-Student of Automatic Control, Cybernetics and Robotics
+Student of Biomedical Engineering - Artificial Inteligence
+Bachelor of Science in Automation, Cybernetics and Robotics
+
 ------------------------------------------------------
 
 *   🌍  I'm based in Gdańsk/Iława
